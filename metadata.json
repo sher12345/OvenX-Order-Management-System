@@ -1,0 +1,8 @@
+
+{
+  "name": "Oven X - Official Order System",
+  "description": "A high-performance restaurant ordering system with a secure admin dashboard for sales analytics, order tracking, and revenue management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
